@@ -125,6 +125,14 @@ export default {
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
     transpile: [ "vee-validate/dist/rules" ],
+    loaders: {
+      sass: {
+        implementation: require('sass'),
+      },
+      scss: {
+        implementation: require('sass'),
+      },
+    },
   },
   hooks: {
     generate: {
