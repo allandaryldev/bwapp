@@ -1,5 +1,8 @@
 import colors from 'vuetify/es5/util/colors'
 
+const { join } = require("path");
+const { copySync, removeSync } = require("fs-extra");
+
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
