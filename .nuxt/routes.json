@@ -1,0 +1,37 @@
+[
+  {
+    "name": "auth",
+    "path": "/auth",
+    "component": "D:\\\\projects\\\\dict\\\\client\\\\pages\\\\auth.vue",
+    "chunkName": "pages/auth",
+    "_name": "_d78be006"
+  },
+  {
+    "name": "app-create",
+    "path": "/app/create",
+    "component": "D:\\\\projects\\\\dict\\\\client\\\\pages\\\\app\\\\create.vue",
+    "chunkName": "pages/app/create",
+    "_name": "_2ba79f58"
+  },
+  {
+    "name": "app-dashboard",
+    "path": "/app/dashboard",
+    "component": "D:\\\\projects\\\\dict\\\\client\\\\pages\\\\app\\\\dashboard.vue",
+    "chunkName": "pages/app/dashboard",
+    "_name": "_ecbafa30"
+  },
+  {
+    "name": "app-id-update",
+    "path": "/app/:id?/update",
+    "component": "D:\\\\projects\\\\dict\\\\client\\\\pages\\\\app\\\\_id\\\\update.vue",
+    "chunkName": "pages/app/_id/update",
+    "_name": "_8f1df452"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\projects\\\\dict\\\\client\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6e73064d"
+  }
+]
